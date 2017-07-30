@@ -1,7 +1,7 @@
 const service = require('./service.js');
 
 //the main method
-//yahaha
+//faker
 let main = ()=>{
     service();
 }
